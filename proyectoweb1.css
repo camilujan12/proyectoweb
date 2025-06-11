@@ -1,13 +1,14 @@
 body{
     background-color: rgb(104, 155, 63);
-    .mica{
+    .proyecto{
         text-align: center;
  }
 }
  .papa{
      display: flex;
     }
-li{
-  margin-right: 25px;  
-  list-style: none;
-}
+    li{
+    margin-right: 25px; 
+    list-style: none;   
+    }
+
